@@ -13,8 +13,7 @@ Beside web developer, I have tried to learn Python for my subjects - data analys
 Currently improving my React skills, exploring NodeJS secret and Python for data analysis.
 
 ### Find me elsewhere 🌍
-- [email]()
-- [Linkedin]()
+- <a href="mailto:vupham.job@gmail.com">Email</a>
 
 <!-- - 👋 Hi, I’m @vuquangpham.
 - 👀 I’m interested in new techlonogy about web developement.
