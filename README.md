@@ -2,7 +2,7 @@
 
 I work as a ~front-end developer~, no, I'm just a studennt. I'm currently studying in University, but I want to become a full-stack engineer. 
 
-Since 2/2020, I have a big influence with web design, web application, so I have tried to learn some web technologies and web design (about HTML/CSS and some design terminology). I have strongly experience with Vanilla Javascript. And in web developement, we can't be without Framework/Library. And ReactJS is my choice. I have learnt ReactJS for over 4 months, and I think I can do something with it.
+Since 2/2020, I have a big influence with web design, web application, so I have tried to learn some web technologies and web design (about HTML/CSS and some design terminology). I have strongly experience with Vanilla Javascript. And in web developement, we can't be without Framework/Library. And ReactJS is my choice. React is a big library that we should learn to explore all the tools, all the magic that React brings to us.
 
 Beside web developer, I have tried to learn Python for my subjects - data analysis and airtifical intelligience. My Python skill is fine, I have built some application in Python, you can try on:
 - Scrapping Hackernews Post
