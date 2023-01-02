@@ -6,4 +6,4 @@ I work as a ~front-end developer~, no, just kidding 😜😜. I'm just a studenn
 Currently improving my React skills, exploring NodeJS secret, web design technology and terminology.
 
 ### Find me elsewhere 🌍
-- <a href="mailto:vupham.job@gmail.com">Email</a>
+- <a href="mailto:vuquangpham2909@gmail.com">Email</a>
