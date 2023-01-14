@@ -1,9 +1,9 @@
 ### Hi, I'm Vu Pham ✌👨‍💻
 
-I work as a ~front-end developer~, no, just kidding 😜😜. I'm just a studennt but I'm currently working as a frontend developer at <a href="https://viivue.com" target="_blank">ViiVue</a>.
+A developer with a passionate heart ♥. But I'm also love to be a writer ✍✍ (not at the moment but in the nearly future because I'm currently doing it).
 
 ### What I'm focusing on 🌞
-Currently improving my React skills, exploring NodeJS secret, web design technology and terminology.
+Not everthing but anything which can make me be creative with all my thoughts 💭💭.
 
 ### Find me elsewhere 🌍
 - <a href="mailto:vuquangpham2909@gmail.com">Email</a>
