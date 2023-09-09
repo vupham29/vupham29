@@ -6,4 +6,4 @@ Until now, I have worked on more than 20 projects with clients from Europe, Thai
 
 I also do some **open-source** projects.
 
-Now, I'm an "unemployed" developer. This is the time that I think I could look back on myself to find out which of the things I could do best and not. Try to learn something new about WebGL ✨, interactive projects that I have been dreaming of for a long time.
+Now, I'm an **unemployed** developer. This is the time that I think I could look back on myself to find out which of the things I could do best and not. Try to learn something new about WebGL ✨, interactive projects that I have been dreaming of for a long time.
